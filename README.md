@@ -1,4 +1,4 @@
-# # BNP Paribas AI Assessment Task
+# BNP Paribas AI Assessment Task
 
 Task: Create an English word image generator and then feed the images to a 		  	machine learning model to recognize the word from the image.
 
