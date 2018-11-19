@@ -10,6 +10,7 @@ Programming Language: Python 3.6.6
 Operating System: Ubuntu 18.04
 
 ## How To Run?
+### (Make sure python version is 3.6 and all the packages are installed in the same environment)
 ```sh
 $ pip install -r requirements.txt 
 ```
@@ -20,7 +21,6 @@ or
 ```sh
 $ python3 run.py
 ```
-### Make sure python version is 3.6 and all the packages are installed in the same environment)
 
 The program will run and generate 100 text images (which will take few 5 - 10 seconds), and then test images will be fed to a convolutional recurrent neural network with a pre-trained model (Transfer learning) for recognition. Results will be returned and displayed in the terminal.
 
