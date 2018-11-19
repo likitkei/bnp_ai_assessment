@@ -24,5 +24,7 @@ As stated in the requirement.txt, pytorch-cpu will be installed by default. For 
 
 ## Reference
 [CRNN in Pytorch](https://github.com/meijieru/crnn.pytorch)
+
 [Text Image Generator](https://github.com/Belval/TextRecognitionDataGenerator)
-[  An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/abs/1507.05717) 
+
+[An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/abs/1507.05717) 
