@@ -11,7 +11,7 @@ Operating System: Ubuntu 18.04
 
 ## How To Run?
 ```sh
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 ```sh
 $ python run.py
