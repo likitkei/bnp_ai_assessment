@@ -7,3 +7,5 @@ beautifulsoup4==4.6.0
 tqdm==4.23.4
 torchvision==0.2.1
 http://download.pytorch.org/whl/cpu/torch-0.4.1-cp36-cp36m-linux_x86_64.whl ; sys_platform == "linux"
+http://download.pytorch.org/whl/cpu/torch-0.4.1-cp36-cp36m-win_amd64.whl ; sys_platform == "win32"
+torch ; sys_platform == "darwin"
