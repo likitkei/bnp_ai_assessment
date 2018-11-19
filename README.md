@@ -27,6 +27,13 @@ The generated text images, true_words.txt, and prediction_words.txt are stored i
 ## Notes
 As stated in the requirement.txt, pytorch-cpu will be installed by default. For better performance, pytorch with GPU support could be installed and the program will utilize CUDA processors for computation.
 
+## Docker
+```sh
+$ docker pull likitkei/bnp
+```
+```sh
+$ docker run likitkei/bnp
+```
 ## Reference
 [CRNN in Pytorch](https://github.com/meijieru/crnn.pytorch)
 
